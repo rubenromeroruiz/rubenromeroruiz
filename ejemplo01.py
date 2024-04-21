@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-st.title("Ejemplo 01 con Streamlit")
+st.title("Ejemplo 01 con Streamlit 2024")
 
 st.write("## Familia Romero González")
 
